@@ -3,6 +3,7 @@
 In this project users can post comments and delete comments and interact with other cmments like either liking or disliking each comment.
 
 &emsp;
+![Screenshot](savAuth.png)
 ## How Its Made 
 **Languages used:** Html, CSS, Javascript, Node.js ,MongoDB , Express
 # What I Learned
